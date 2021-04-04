@@ -1,0 +1,50 @@
+
+	    p {
+
+			color: white ;
+			font-size: 32px;
+			margin: 50px 0;
+
+		}
+
+		h1 {
+
+ 			color: red;
+ 			font-size: 72px;
+ 			text-align: center;
+ 			
+ 		}
+
+ 		body {
+ 			background-color: black;
+ 		}
+
+ 		div {
+ 			width: 70%; 
+ 			margin: auto;
+ 		}
+ 		
+
+ 		
+
+ 		.body {
+ 			background-color: black;
+ 			font-family: 'PT Serif', serif;
+ 			
+ 		}
+
+ 		img {
+ 			max-width: 100%;
+ 			
+ 		}
+ 		a {
+ 			color: white;
+ 			font-size: 50px;
+ 			text-decoration: none;
+ 		}
+ 		
+
+
+
+
+
